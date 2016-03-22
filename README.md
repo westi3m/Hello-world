@@ -1,4 +1,4 @@
 # Hello-world
 
 ----
-Jus a little change
+Just a little change
